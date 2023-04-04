@@ -15,4 +15,5 @@ module.exports = function (id, label){
       "en-gb": "point in time",
       "en-in": "point in time",
   }
+  }
 }
