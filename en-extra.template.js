@@ -4,8 +4,8 @@ module.exports = function (id, label){
     labels: {
       "en-us": label,
       "en-ca": label,
-      "en-au": label
-      "en-gb": label
+      "en-au": label,
+      "en-gb": label,
       "en-in": label
     },
     descriptions: {
